@@ -1,0 +1,6 @@
+@background_job_real_world_demo_HostAddress = http://localhost:5106
+
+GET {{background_job_real_world_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
